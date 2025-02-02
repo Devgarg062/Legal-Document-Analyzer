@@ -53,13 +53,3 @@ To create a FastAPI-based application capable of analyzing legal documents by al
 3. **NLP analysis is performed on the extracted text.**
 4. **Results (e.g., named entities, word frequency) are returned to the user as JSON.**
 5. **Metadata and results are saved in the database for future reference.**
-
----
-
-### **Future Enhancements:**
-- **Sentiment Analysis:** Analyze the tone of legal text (e.g., aggressive, neutral).
-- **Clause Identification:** Automatically identify specific clauses (e.g., confidentiality, payment terms).
-- **Cloud Storage:** Upload and retrieve documents from cloud storage (e.g., AWS S3).
-- **Advanced Analytics:** Provide more sophisticated legal insights (e.g., compliance checks, risk assessment).
-
-This project offers a foundation for automating legal text analysis and can be expanded to include more advanced NLP and machine learning capabilities.
